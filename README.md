@@ -6,4 +6,4 @@
 
 ## Run
 #### npm start - Start the node server on port 3000
-#### npm start:webpack-dev - Start webpack dev-server on port 8080
+#### npm run webpack-dev - Start webpack dev-server on port 8080
